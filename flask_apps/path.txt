@@ -1,0 +1,6 @@
+source /media/slliw/HDD-linux/python-venv/flask/bin/activate
+
+
+
+
+cd Python/flask_apps
